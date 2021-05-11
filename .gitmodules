@@ -1,0 +1,9 @@
+[submodule "rbylua"]
+	path = rbylua
+	url = https://github.com/kvpb/rbylua
+[submodule "gsclua"]
+	path = gsclua
+	url = https://github.com/kvpb/gsclua
+[submodule "luascripts"]
+	path = luascripts
+	url = https://github.com/kvpb/luascripts
